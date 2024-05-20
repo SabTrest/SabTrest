@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SabTrest
+- 👋 Hi, I’m Sabrina Trestin
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning programming languages and software development
 - 💞️ I’m looking to collaborate on websites and apps
